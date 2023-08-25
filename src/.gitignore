@@ -1,0 +1,3 @@
+# Ignore .class files in the src/ directory
+src/**/*.class
+
